@@ -4,7 +4,7 @@ import net.minecraftforge.fml.relauncher.IFMLLoadingPlugin;
 
 import java.util.Map;
 
-@IFMLLoadingPlugin.MCVersion("1.10.2")
+@IFMLLoadingPlugin.MCVersion("1.11.2")
 public class Loader implements IFMLLoadingPlugin {
     @Override
     public String[] getASMTransformerClass() {
